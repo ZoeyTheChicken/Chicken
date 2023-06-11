@@ -5,8 +5,6 @@ The new fork of PaperMC with 1.20 support!
 
 
 ```xml
- * Artifact Information:
-```xml
 <dependency>
     <groupId>com.zoey.parrotmc</groupId>
     <artifactId>parrot-loader-api</artifactId>
@@ -14,16 +12,6 @@ The new fork of PaperMC with 1.20 support!
     <scope>provided</scope>
 </dependency>
  ```
-
-dependencies {
-    compileOnly("com.zoey.parrotmc:parrot-loader-api:1.20-relPRE-12")
-}
-
-java {
-    toolchain.languageVersion.set(JavaLanguageVersion.of(17))
-}
-```
-
 How To (Compiling Jar From Source)
 ------
 To compile Paper, you need JDK 17 and an internet connection.
