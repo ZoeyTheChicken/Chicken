@@ -1,4 +1,4 @@
-Parrot [CURRENT BUILD STATUS OF RELEASE PREVIEW]: Revision 12 - 1.20
+Parrot [CURRENT BUILD STATUS OF RELEASE PREVIEW]: Revision 12 - 1.20 [PRE]
 ===========
 
 The new fork of PaperMC with 1.20 support!
