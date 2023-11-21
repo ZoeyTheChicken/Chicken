@@ -1,17 +1,17 @@
-Parrot Build Status: Built 1.19.4-REL
+Chicken Build Status: Built 1.20.1-REL
 
-A brand new fork of the popular server software @PaperMC
+A brand new fork of the popular server software PaperMC
 
 
 How To (Server Admins)
 ------
-ParrotMC is still being developed!
+Chicken is still being developed!
 
-Parrot Version: 1.19.4-REL-1
+Chicken Version: 1.20.1-REL-66
 
-How to compile Parrot for use
+How to compile Chicken for use
 ------
-To compile Parrot, you need JDK 17 and an internet connection.
+To compile Chicken, you need JDK 17 and an internet connection.
 
 Clone this repo, run `./gradlew applyPatches`, then `./gradlew createReobfBundlerJar` from your terminal. You can find the compiled jar in the project root's `build/libs` directory.
 
